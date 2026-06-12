@@ -1,4 +1,4 @@
-# ALKY WALLET
+# ALKE-WALLET
 
 ## Breve descripción
 ------------------
