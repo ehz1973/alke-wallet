@@ -36,5 +36,5 @@ ALKY Wallet es una aplicación web simple para gestionar operaciones básicas de
 ----------------
 
 - **Autor:** Exequiel Hernandez
-- **Repositorio:** 
+- **Repositorio:** https://github.com/ehz1973/alke-wallet
 - **Desplegable:** 
